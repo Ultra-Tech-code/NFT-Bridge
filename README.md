@@ -18,10 +18,10 @@ Aloy using their fxPortal bridge.
 
 ---
 ```shell
-git clone <this-repo-url>
+git clone https://github.com/Ultra-Tech-code/NFT-Bridge
 ```
 ```shell
-cd NFT-ZK-Bridge
+cd NFT-Bridge
 ```
 ```shell
 npm install
